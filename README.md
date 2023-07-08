@@ -2,11 +2,5 @@
 
 # Business Problem:
 
-In recent years, City Hotel and Resort Hotel have seen high cancellation rates. Each
-hotel is now dealing with a number of issues as a result, including fewer revenues and
-less than ideal hotel room use. Consequently, lowering cancellation rates is both hotels'
-primary goal in order to increase their efficiency in generating revenue, and for us to
-offer thorough business advice to address this problem.
-The analysis of hotel booking cancellations as well as other factors that have no bearing
-on their business and yearly revenue generation are the main topics of this report.
+In recent years, City Hotel and Resort Hotel have encountered a significant issue of high cancellation rates, leading to adverse consequences such as reduced revenues and suboptimal utilization of hotel rooms. Lowering cancellation rates has become the primary objective for both hotels to enhance revenue generation efficiency and seek comprehensive business advice. To address this problem, a thorough analysis of hotel booking cancellations, as well as other factors unrelated to their core business and annual revenue generation, is essential. By identifying the underlying causes and patterns contributing to cancellations, strategic solutions can be devised, including refining pricing strategies, improving waiting list management, implementing targeted marketing campaigns, and enhancing overall service quality. Effective resolution of this complex problem will enable the hotels to optimize revenue, maximize room utilization, and maintain a competitive edge in the hospitality industry.
 
